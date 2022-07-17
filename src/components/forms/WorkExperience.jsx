@@ -4,9 +4,7 @@ import FormSection from '../elements/form/FormSection';
 import { Wrapper } from '../wrappers/Wrapper';
 import InputContainer from '../containers/InputContainer';
 import Input from '../elements/inputs/Input';
-import TextArea from '../elements/inputs/TextArea';
 import Select from '../elements/inputs/Select';
-import { MONTHS, YEARS } from '../../util/dateUtil';
 import FormHandler from '../../data/FormHandler';
 
 function WorkExperience({ userData, onSubmit }) {

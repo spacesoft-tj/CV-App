@@ -50,9 +50,4 @@ const Title = styled.h3`
   font-weight: 900;
 `;
 
-const Description = styled.p`
-  font-size: 1rem;
-  font-weight: 300;
-`;
-
 export default DownloadCV;
